@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    overflow: hidden;
+}
+
+.logooo {
+    margin-top: -7px;
+    margin-bottom: 17px;
+}
+
+* {
+    font-family: Poppins, sans-serif;
+}
+
+.container {
+    position: absolute;
+    top: 4vh;
+    right: 1vw;
+}
+
+.hud {
+    width: 10.125vw;
+    height: 1.75vh;
+    color: #fff;
+    margin-left: -7.25vw;
+    margin-top: -6vh;
+    padding: 0 1vw;
+}
+
+.icons {
+    padding: 3.5 0.5vw;
+    display: inline-block;
+    margin-left: 3.1vw;
+    margin-top: 3.5vh;
+}
+
+.icon1 {
+    position: relative;
+    height: 1.6vh;
+    width: 1.6vw;
+    left: -2vw;
+    display: inline-block;
+}
+
+.icon1 img {
+    width: 2.5vw;
+    height: auto;
+}
+
+.icon2 {
+    height: 1.6vh;
+    width: 1.6vw;
+    margin-left: -1.0vw;
+    display: inline-block;
+}
+
+.icon2 img {
+    width: 2.5vw;
+    height: auto;
+}
+
+.geldback {
+    position: absolute;
+    top: 1.9vh;
+    right: 1.4vw;
+    height: 1vh;
+    width: 1vw;
+    margin-left: 1.15vw;
+    margin-top: 1vh;
+}
+
+.bar4 {
+    background-color: black;
+    position: absolute;
+    padding: 0.25vw;
+    color: #fff;
+    width: 2.3vw;
+    top: -1vh;
+    height: 1.8vw;
+    margin-left: 5vw;
+    transform: skewX(-5deg);
+}
+
+.bar5 {
+    background-color: black;
+    position: absolute;
+    padding: 0.25vw;
+    color: #fff;
+    width: 2.3vw;
+    top: 0px;
+    margin-left: 105vw;
+    height: 1.8vh;
+}
+
+.geld {
+    background-color: rgba(0, 0, 0, 0.774);
+    position: absolute;
+    padding: 0.25vw;
+    color: #fff;
+    width: 6vw;
+    top: 6vh;
+    height: 1.4vh;
+    margin-left: -5.2vw;
+}
+
+.zeichen {
+    position: absolute;
+    height: 2.4vh;
+    left: -0vw;
+    width: 1.5vw;
+    color: rgba(255, 255, 255, 0.459);
+    top: 6vh;
+    text-align: center;
+    background-color: #00ff00;
+    color: #ffffff;
+    transform: skewX(-0deg);
+}
+
+.text {
+    position: absolute;
+    font-size: 0.7vw;
+    color: rgb(255, 255, 255);
+    right: -0.2vw;
+    top: 8.8vh;
+    width: 10vw;
+}
+
+.clock {
+    line-height: 5vh;
+    justify-content: center;
+}
+
+.clock .time {
+    position: absolute;
+    width: 8vw;
+    line-height: 2vh;
+    color: aqua;
+    font-size: 1.2vh;
+    text-align: center;
+    margin-top: 6.5vh;
+    margin-left: 87.9vw;
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.278) 0%, rgba(0, 0, 0, 0.778) 50%, rgba(0, 0, 0, 0.278) 100%);
+}
